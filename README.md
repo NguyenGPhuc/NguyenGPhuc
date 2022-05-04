@@ -1,6 +1,6 @@
 - 👋 Hello there! My name is Phuc Nguyen, but I prefer to go by Paul.
 - 
-- 👀 I have a particular interest in data analytics and AI development. That being said, I am open to any oprtunity to learn. 
+- 👀 I have a particular interest in data analytics and AI development. That being said, I am open to any oprtunity to learn new skills.
 - 
 - 🌱 I’m currently studying at CSUMB for my bachelor's degree in Computer Science.
 - 
