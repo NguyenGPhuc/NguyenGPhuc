@@ -4,7 +4,7 @@
 - 
 - 🌱 I’m currently studying at CSUMB for my bachelor's degree in Computer Science.
 - 
-- 📫 Best way to reach me is through my email - pnguyen@csumb.edu.
+- 📫 Best way to reach me is through my email - NguyuenGPhuc@gmail.com.
 
 <!---
 NguyenGPhuc/NguyenGPhuc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
