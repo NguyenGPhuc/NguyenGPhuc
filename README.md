@@ -1,8 +1,8 @@
 - 👋 Hello there! My name is Phuc Nguyen, but I prefer to go by Paul.
 - 
-- 👀 I am currently seeking an entry position as a software engineer.
+- 👀 I'm currently seeking an entry position as a software engineer.
 - 
-- 🌱 I've recently graduated at California State University of Monterey Bay.
+- 🌱 I've recently graduated at California State University of Monterey Bay with a Bachelor in Computer Science.
 - 
 - 📫 Best way to reach me is through my email - NguyuenGPhuc@gmail.com.
 
