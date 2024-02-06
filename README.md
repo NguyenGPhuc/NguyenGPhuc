@@ -1,8 +1,8 @@
 - 👋 Hello there! My name is Phuc Nguyen, but I prefer to go by Paul.
 - 
-- 👀 I have a particular interest in machine learning and AI development. That being said, I am open to any opportunities to pick up new skills.
+- 👀 I am currently seeking an entry position as a software engineer.
 - 
-- 🌱 I’m currently studying at CSUMB for my bachelor's degree in Computer Science.
+- 🌱 I've recently graduated at California State University of Monterey Bay.
 - 
 - 📫 Best way to reach me is through my email - NguyuenGPhuc@gmail.com.
 
